@@ -1,7 +1,7 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "build": 1,
   "url": "https://github.com/YangJiiii/EnsWilde/releases/latest",
-  "notes": "Bug fixes and UI improvements."
+  "notes": "Added the ability to change the card's background image in Apple Wallet."
 }
 
